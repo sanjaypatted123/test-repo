@@ -1,2 +1,4 @@
 its test 2
-minor change
+minor change ok changes made
+//it a comment 
+ok ylolo change made
